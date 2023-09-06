@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zotak1994&label=Profile%20views&color=0e75b6&style=flat" alt="zotak1994" /> </p>
 
-- 👯 I’m looking to collaborate on **Mulltiply**
+- 👯 Collaborate on **Mulltiply**
 
 - 📫 How to reach me **spsouravpal1@gmail.com**
 
